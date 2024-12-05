@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+ul{
+    list-style: none;
+}
+
+header{
+    height: 100px;
+    border: 2px solid blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(99, 179, 205, 0.471);
+}
+
+.nav-list{
+    display: flex;
+}
+
+.nav-list li{
+    margin: 5px;
+    font-size: 25px;
+    color:rgb(0, 101, 234)
+}
+
+.header-logo img{
+    height: 50px;
+    margin-left: 10px;
+}
+
+.login-icon img{
+    height: 50px;
+    margin-right: 10px;
+}
+
+main .batman{
+    height: 250px;
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(99, 179, 205, 0.471);
+    
+}
+
+.iten-picture{
+    margin: 5px;
+}
+
+
+section .batman1{
+    height: 200px;
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(99, 179, 205, 0.471);
+    
+}
